@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="MadlibsBoard"
+    >
+      <div>
+        <h1>
+          Play Madlibs!
+        </h1>
+        <form
+          class="MadlibsForm"
+        >
+          <div>
+            <label
+              for="noun1"
+            >
+              Noun1
+            </label>
+            <input
+              id="noun1"
+              name="noun1"
+              placeholder="first noun"
+              type="text"
+              value=""
+            />
+          </div>
+          <div>
+            <label
+              for="noun2"
+            >
+              Noun2
+            </label>
+            <input
+              id="noun2"
+              name="noun2"
+              placeholder="second noun"
+              type="text"
+              value=""
+            />
+          </div>
+          <div>
+            <label
+              for="adjective"
+            >
+              Adjective
+            </label>
+            <input
+              id="adjective"
+              name="adjective"
+              placeholder="adjective"
+              type="text"
+              value=""
+            />
+          </div>
+          <div>
+            <label
+              for="color"
+            >
+              Color
+            </label>
+            <input
+              id="color"
+              name="color"
+              placeholder="color"
+              type="text"
+              value=""
+            />
+          </div>
+          <button
+            class="MadlibsForm-submit"
+          >
+            Create Madlib!
+          </button>
+        </form>
+      </div>
+      <div>
+        <h2>
+          <u>
+            Your Madlibs: 
+          </u>
+        </h2>
+        <button
+          class="MadlibsBoard-refresh"
+        >
+          Refresh List
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

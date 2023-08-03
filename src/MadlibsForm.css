@@ -1,0 +1,41 @@
+
+.MadlibsForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: normal;
+    border: 3px black solid;
+    border-radius: 10px;
+    padding: 5px;
+    width: auto;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    font-weight: bolder;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+    width: 20%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.MadlibsForm-submit {
+    display: flex;
+    align-items: normal;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+    width: auto;
+    border: 1px black solid;
+    border-radius: 5px;
+    background-color: green;
+    color: black;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+

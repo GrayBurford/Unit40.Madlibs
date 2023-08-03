@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Story"
+  >
+    <h4>
+      There once was a undefined undefined who loved a undefined undefined
+    </h4>
+  </div>
+</DocumentFragment>
+`;
